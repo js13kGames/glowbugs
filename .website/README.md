@@ -1,4 +1,8 @@
 ---
+genres:
+  - arcade
+  - action
+  - casual
 directors_cut: https://eoinmcgrath.com/glowbugs/
 post: https://eoinmcgrath.com/glowbugs/postmortem
 # See github.com/js13kGames/hello-world for supported frontmatter
